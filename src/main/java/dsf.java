@@ -1,3 +1,3 @@
 public class dsf {
-    //sdasd
+int i=0;
 }
